@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/Tic-Tac-Toe/)
+- [Link](https://harsh-sangwan2002.github.io/Tic-Tac-Toe/)
 
 A quick guide to my Project ->
 
